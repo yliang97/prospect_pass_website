@@ -1,0 +1,11 @@
+body {
+    padding: 20px;
+}
+
+td {
+    padding-right: 10px;
+}
+
+div.contents {
+    padding-left: 15px;
+}
